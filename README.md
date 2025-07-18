@@ -1,5 +1,5 @@
 
-#🐠 Multi-Class Animal Classification using Python 🐶
+🐠 Multi-Class Animal Classification using Python 🐶
 
 Overview 📚
 This project implements a multi-class animal classification system using Python, leveraging machine learning techniques to classify images of various animal species 🐱. The project utilizes a deep learning approach, specifically convolutional neural networks (CNNs) 🤖, to achieve high accuracy in animal classification.
